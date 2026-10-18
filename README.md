@@ -1,4 +1,4 @@
-# 🔥 Forest Fire FWI Prediction
+#  Forest Fire FWI Prediction
 
 A Machine Learning project for predicting the **Fire Weather Index (FWI)** using meteorological and environmental conditions.
 
